@@ -57,8 +57,38 @@ Normal
 Suspicious
 Applied feature scaling and train-test split
 ### 5️⃣ Dashboard
-Created an interactive dashboard using Plotly
-Included filters and KPI metrics:
-Total Sessions
-Suspicious Traffic
-Country-wise analysis
+- Created an interactive dashboard using Plotly
+- Included filters and KPI metrics:
+- Total Sessions
+- Suspicious Traffic
+- Country-wise analysis
+
+## 📊 Key Insights
+- A portion of web traffic was identified as suspicious
+- Certain countries generated higher suspicious activity
+- Suspicious traffic showed abnormal data transfer patterns
+- Visualization helped in better understanding of network behavior
+
+## 📈 Visualizations
+
+The project includes:
+- Traffic Type Distribution (Pie Chart)
+- Bytes In vs Bytes Out (Scatter Plot)
+- Suspicious Activity by Country (Bar Chart)
+- Bytes Distribution (Histogram)
+- 
+## 📊 Dashboard Features
+Interactive filters
+Real-time data exploration
+KPI metrics display
+Visual analysis of network traffic
+
+## ✅ Conclusion
+
+This project demonstrates how data analysis and machine learning can be used to detect suspicious web activities. 
+The dashboard and insights help in improving network monitoring and cybersecurity decision-making.
+
+## Future Improvements
+- Real-time threat detection system
+- Advanced deep learning models
+- Integration with security tools
